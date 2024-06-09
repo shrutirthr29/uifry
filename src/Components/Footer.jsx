@@ -7,19 +7,19 @@ export default function Footer() {
                 <div id="footer-grid" class="grid grid-cols-2 gap-4 px-4 py-6 lg:py-8 md:grid-cols-4">
                     <div>
                         <div class="features-list flex items-center gap-2 mb-2">
-                            <img src='src/assets/logo.png' class=""></img>
+                            <img src='/assets/logo.png' class=""></img>
                             <h2 class="text-xl tracking-tight font-bold text-gray-900 dark:text-white">uifry™</h2>
                         </div>
                         <ul class="text-gray-500 dark:text-gray-400 font-medium">
                             <li>
                                 <div class="features-list flex items-center gap-2 mb-2">
-                                    <img src='src/assets/mail.png' class=""></img>
+                                    <img src='/assets/mail.png' class=""></img>
                                     <h2 class="text-l tracking-tight text-gray-900 dark:text-white">Help@Frybix.Com</h2>
                                 </div>
                             </li>
                             <li>
                                 <div class="features-list flex items-center gap-2 mb-2">
-                                    <img src='src/assets/phone.png' class=""></img>
+                                    <img src='/assets/phone.png' class=""></img>
                                     <h2 class="text-l tracking-tight text-gray-900 dark:text-white">+1234 456 678 89</h2>
                                 </div>
                             </li>
