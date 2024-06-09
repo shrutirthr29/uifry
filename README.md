@@ -44,4 +44,4 @@ npm run dev
 This command will start the development server. 
 
 **Deployed Project**
-You can access the deployed Car Rental Web Application at []().
+You can access the deployed Web Application at []().
