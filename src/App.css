@@ -4,9 +4,7 @@
 #home{
   margin-top: 5rem;
 }
-#home-left{
-  margin-top: 10rem;
-}
+
 #home-text{
   width: 33rem;
   position: absolute;
@@ -62,4 +60,10 @@
 }
 #footer-grid{
   grid-template-columns: repeat(5, minmax(0, 1fr));
+}
+#home-left-a{
+  background-color: black;
+}
+#nav-download-btn{
+  background-color: black;
 }
